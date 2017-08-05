@@ -28,3 +28,5 @@ This is where, I get philosophical. Consciousness must be some form of energy, b
 My guess its my singular consciousness exist in the 4th dimension using the body of the lower 3 and the is myself.
 
 Lucky for me, it can never be proven as no one can probe this dimension. We just see electrons enter and immediate exit it. It causes the spookiness of quantum physics. Or at least I hope so.
+
+`CC4 Copyleft 2017 J. Morio Sakaguchi`
