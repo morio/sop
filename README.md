@@ -4,7 +4,7 @@ This is a thoery of physics I'd like to test as much as possible in the pursue o
 
 The thoery comes down to two statments so far.
 1. There is a fourth spacial dimension that is instantanout (timelesss)
-2. Einstient Theory of relativity only applies to photons
+2. Einstein Theory of relativity only applies to photons
 
 The more expermenal physics I undersatnd the more I can exapand on this theory.
 
