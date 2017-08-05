@@ -18,7 +18,9 @@ Either one gives me hope for a new age in space travel and possible new age in c
 
 The scariest equation Einstein ever wrote is beautiful.
 
+```
 E=MC^2
+```
 
 Energy is equal to the Mass of an object times the speed of starlight squared.
 
